@@ -6,7 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",
-    "seed": "node seeds/seed.js"
+    "seed": "node seeds/seed.js",
+    "format": "prettier --write \"**/*.{js,json,css,handlebars}\"",
+    "format:check": "prettier --check \"**/*.{js,json,css,handlebars}\""
   },
   "repository": {
     "type": "git",
