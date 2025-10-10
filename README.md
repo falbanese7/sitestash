@@ -28,7 +28,7 @@ Live Site: https://sitestash.herokuapp.com/
 
 ## Installation
 
-There is no need to install this code. Just navigate to the deployed site at: https://sitestash.herokuapp.com/
+There is no need to install this code. Just navigate to the deployed site at: https://sitestash-v2-8fa46c041f7e.herokuapp.com/
 
 ## Usage
 
